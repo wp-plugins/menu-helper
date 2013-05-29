@@ -7,7 +7,7 @@
 * Description: Users can use short-codes to retrieve different sub-menus. In Settings -> Menu Helper Info are described the options provided by the plugin.
 * Author: Simona Ilie
 * Author URI: http://profiles.wordpress.org/simonailie/
-* Version: 1.0
+* Version: 1.1
 * Requires at least: 3.5
 * License: GPLv2 or later
 */
@@ -37,6 +37,7 @@ if ( !function_exists( 'add_action' ) ) {
 
 
 // Check WordPress Version. Needs to be at least 3.5
+global $wp_version;
 if ( $wp_version < '3.5' ) {
     echo 'Sorry, to run this plugin you need at least WordPress version 3.5. For customizations you can contact the creator of this plugin;).';
 	exit;
