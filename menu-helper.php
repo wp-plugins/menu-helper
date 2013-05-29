@@ -8,7 +8,7 @@
 * Author: Simona Ilie
 * Author URI: http://profiles.wordpress.org/simonailie/
 * Version: 1.0
-* Requires at least: 3 or higher
+* Requires at least: 3.5
 * License: GPLv2 or later
 */
 
