@@ -1,7 +1,7 @@
 === Menu Helper ===
 Author: SimonaIlie
 Tags: menus manipulation, submenus 
-Requires at least: 3 or higher
+Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 or later
