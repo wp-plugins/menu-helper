@@ -1,6 +1,6 @@
 === Menu Helper ===
 Author: SimonaIlie
-Tags: menus manipulation, submenus 
+Tags: menus manipulation, submenus, menu, navigation
 Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: 1.1
